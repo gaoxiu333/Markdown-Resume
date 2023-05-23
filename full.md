@@ -110,6 +110,8 @@
   - 使用 WebSocket 实时接入数据，完成热点地图、区域排名、联考排名等模块的可视化开发。
   - 通过浏览器  `performance` 面板调试性能瓶颈，解决低性能平台大屏卡顿问题
 
+- **埋点**
+
 - **PCB贴片报价系统**
 
   描述：一个面向海外的电路板贴片报价的商城类网站，支持国际化。
@@ -134,3 +136,7 @@
 - ★★★ Vue、React
 - ★★☆ Angular、Nextjs
 - ★☆☆ Nodejs、Express
+
+## 教育经历
+
+<div style="display:flex;justify-content:space-between;"><strong>2012.09-2015.06</strong><strong>河南工业职业技术学院</strong><strong>大专</strong></div>
